@@ -227,7 +227,7 @@ format:
 -   Your colleague's success is good for dept and therefore also for you.
 -   :warning: Obsessive ranking mentality (Top 3) can be crippling.
 
-## Publication email
+## Publication email - example
 
 <small>We recently got the paper 'Real-Time Robotic Search using Hierarchical Spatial Point Processes' accepted for publication in the machine learning conference 'Uncertainty in Artificial Intelligence' (UAI2019).
 
