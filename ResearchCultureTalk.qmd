@@ -163,9 +163,6 @@ format:
 
 -   [**Distribute the invitation and hosting**]{style="color:#bf9d6c;"} across all researchers. <br>Make it the **department's** seminar series.\
 
-## Distribute seminar invitation and hosting
-
-![](/Images/forskningsseminarier_crop.png){fig-align="center" width="50%"}
 
 ## Get people here, send people away
 
