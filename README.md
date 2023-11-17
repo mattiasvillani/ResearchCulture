@@ -7,7 +7,7 @@
 
 ### Slides
 
-The slides from my talk are available [here](/slides/researchculture_slides.html).
+The slides from my talk are available [here](ResearchCultureTalk.html).
 
 ### Resources (will add more to this later)
 
