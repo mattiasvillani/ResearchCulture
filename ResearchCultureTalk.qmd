@@ -22,21 +22,21 @@ format:
 
 ## My experiences and influences
 
-- Stockholm University:
-    - PhD in Statistics in 2000.
-    - VR forskarassistent 2001-2003.
-    - Senior lecturer (lektor) 2003-2011.
-    - Professor 2018-\
+-   Stockholm University:
+    -   PhD in Statistics in 2000.
+    -   VR forskarassistent 2001-2003.
+    -   Senior lecturer (lektor) 2003-2011.
+    -   Professor 2018-\
+         
+-   [**Researcher**]{style="color:#bf9d6c;"} and Adviser, Central Bank of Sweden, 2003-2011.\
      
-- [**Researcher**]{style="color:#bf9d6c;"} and Adviser, Central Bank of Sweden, 2003-2011.\
+-   Professor and [**Head of Division**]{style="color:#bf9d6c;"} of Statistics (and Machine Learning), Linköping University, 2011-2018.\
      
-- Professor and [**Head of Division**]{style="color:#bf9d6c;"} of Statistics (and Machine Learning), Linköping University, 2011-2018.\
-     
-- Visiting professor, University of New South Wales, Australia.
+-   Senior visiting scholar, University of New South Wales, Australia.
 
 ## My experiences and influences
 
-![](Images/riksbank.jpg){fig-align="center" width="61%"}&nbsp; &nbsp;&nbsp;&nbsp;![](Images/STIMA.png){fig-align="center" width="34%"}
+![](Images/riksbank.jpg){fig-align="center" width="61%"}     ![](Images/STIMA.png){fig-align="center" width="34%"}
 
 ## The premise  
 
@@ -47,7 +47,7 @@ format:
 -   Teaching have shorter time scales than research. [**Crowding out**]{style="color:#bf9d6c;"}.
 
 -   Teaching culture can quickly become dominant.
-    
+
 -   How to develop a [**research culture**]{style="color:#bf9d6c;"} and maintain teaching efforts?
 
 -   OED: *a way of life or social environment characterized by or associated with the specified quality or thing*.
@@ -58,47 +58,44 @@ format:
 
 -   Is it possible to develop a culture, or must it happen organically?
 
-
-
 ## The simple solution  
 
 -   Just increase [**research time**]{style="color:#bf9d6c;"} for all lecturers ...
 -   Increase external funding.
 -   Good research is a prerequisite for [**external funding**]{style="color:#bf9d6c;"}.\
      
--   What should we [**prioritize**]{style="color:#bf9d6c;"} given a limited internal research budget?
--   How to get the wheel moving in the right direction?\
+-   How to get the wheel moving in the right direction?
+-   What should we [**prioritize**]{style="color:#bf9d6c;"} given a limited internal research budget?\
      
 -   It must be a [**joint effort**]{style="color:#bf9d6c;"}, to improve work satisfaction for everyone.
 
 ![](Images/moneydesk2.png){fig-align="center" width="35%"}
 
-## Increase external funding - some activities 
+## Increase external funding - some activities
+
 -   Overview seminar on funding by university administration.
 -   [**Seminar on funding agencies**]{style="color:#bf9d6c;"} by dept researchers.
     -   each researcher presents a funding agency
     -   focus? calls? grant sizes? what projects are being funded?
 -   [**Seminar with successful grant applications**]{style="color:#bf9d6c;"}.
--   [**List of calls**]{style="color:#bf9d6c;"} and agencies on internal dept page.
+-   Curated [**list of calls**]{style="color:#bf9d6c;"} and agencies on internal dept page.
 -   [**Reminders**]{style="color:#bf9d6c;"} at dept meetings. Email alerts. Grant calendar.
 
 ![](Images/moneyinair3.png){fig-align="center" width="35%"}
 
 ## External funding for junior researchers  
 
--   Connect junior researcher to [**senior mentor for a grant proposal**]{style="color:#bf9d6c;"}.\
-     
+-   Connect junior researcher to [**senior mentor for a grant proposal**]{style="color:#bf9d6c;"}.
 
--   [**Grant-pitching seminars**]{style="color:#bf9d6c;"} for feedback and a senior connection.\
-     
+-   [**Grant-pitching seminars**]{style="color:#bf9d6c;"} for feedback and a senior connection.
 
--   [**Feedback**]{style="color:#bf9d6c;"} throughout the process, particularly on "the big picture".\
-     
+-   [**Feedback**]{style="color:#bf9d6c;"} throughout the process, particularly on "the big picture".
 
--   Plus/Minus: Mentor may end up as co-applicant.\
-     
+-   Plus/Minus: Mentor may end up as co-applicant.
 
 -   [**Co-applicant**]{style="color:#bf9d6c;"} in established research group, also in other subjects.
+
+-   "Consulting" towards other departments to get contacts.
 
 ![](Images/mentor2.png){fig-align="center" width="35%"}
 
@@ -109,99 +106,110 @@ format:
 -   Library and database access and all of that.
 
 -   Key physical books in smaller department library.\
-         
+     
 
 -   [**Brainstorming rooms**]{style="color:#bf9d6c;"} with big display, whiteboards, comfy chairs.
 
 -   Whiteboards in the coffee room for spontaneous discussions.\
-         
+     
 
 -   [**New books (research monographs) on display**]{style="color:#bf9d6c;"} in coffee room.
 
--   [**Bulletin board**]{style="color:#bf9d6c;"} with 
-    - recent conference posters by staff members
-    - posters of master theses and PhD student papers.
+-   [**Bulletin board**]{style="color:#bf9d6c;"} with
+
+    -   recent conference posters by staff members
+    -   posters of master's theses and PhD student papers.
 
 ## Research seminars
 
-- Why?
+-   Why?
 
-  -   Learning about new research. 
+    -   Learning about new research.
 
-  -   Learning about the subject, both broad and deep.
+    -   Learning about the subject, both broad and deep.
 
-  -   [**Research trends**]{style="color:#bf9d6c;"} - important for less active researchers.
+    -   [**Research trends**]{style="color:#bf9d6c;"} - important for less active researchers.
 
-  -   [**Meeting other researchers**]{style="color:#bf9d6c;"}.\
+    -   [**Meet other researchers**]{style="color:#bf9d6c;"}.\
          
 
 -   Fund the seminars
 
     -   Attract speakers from abroad.
 
-    -   [**Get speakers to stay**]{style="color:#bf9d6c;"}  for some days.
+    -   [**Get speakers to stay**]{style="color:#bf9d6c;"} for some days.
 
     -   Schedule [**one-on-one meetings with speaker**]{style="color:#bf9d6c;"}.
 
     -   Also with PhD students and less research active staff.
 
-## Research seminars - make them important\
-         
+## Research seminars - make them important 
+
+```         
+     
+```
 
 -   [**Make seminars visible**]{style="color:#bf9d6c;"} on a [public web page](https://www.ida.liu.se/research/machinelearning/seminars/){preview-link="true" style="text-align: center"}, incl past seminars.\
-         
+     
 
 -   Link to past seminars when inviting speakers. [**Stars attract stars**]{style="color:#bf9d6c;"}.\
-         
+     
 
 -   When paper is available, distribute it to staff for better discussion.\
-         
+     
 
 -   PhD course credit for acting as unofficial mini-discussant.\
-         
+     
 
--   [Distribute the invitation and hosting](Images/forskningsseminarier.png){preview-link="true" style="text-align: center"} across all researchers. <br>Make it the **department's** seminar series.\
-         
+-   [**Distribute the invitation and hosting**]{style="color:#bf9d6c;"} across all researchers. <br>Make it the **department's** seminar series.\
+
+## Distribute seminar invitation and hosting
+
+![](/Images/forskningsseminarier_crop.png){fig-align="center" width="50%"}
 
 ## Get people here, send people away
 
--   Mobility is undervalued (in Sweden).\
-          
--   Encourage [**teacher exchange programs**]{style="color:#bf9d6c;"}, particularly on advanced and PhD level courses. New environment, meet people, time to reflect.\
-         
--   Attract [**guest professors**]{style="color:#bf9d6c;"} to give a course, seminars and for discussing research. Funding.\
-         
--   Send PhD students abroad on a longer [**pre-doc**]{style="color:#bf9d6c;"} visit to top research environment. Excellent for motivation and new ideas.\
-         
--   Scholarships and travel support. [URA-agreement](https://www.arbetsgivarverket.se/arbetsgivarguiden/personal-utomlands/utlandsstationering-med-ura/) is ideal, but costly.\
-         
-- Easy and cheap guest housing on campus would do wonders.
+-   Mobility is undervalued (in Sweden).
+-   Encourage [**teacher exchange programs**]{style="color:#bf9d6c;"}, particularly on advanced and PhD level courses. New environment, meet people, time to reflect.
+-   Hard because we typically need our teachers. Long term planning.
+-   Attract [**guest professors**]{style="color:#bf9d6c;"} to give a course, seminars and for discussing research. Sabbaticals. Funding.
+-   Informal shorter (week-month) exchange of staff between universities.
+-   Send PhD students abroad on a longer [**pre-doc**]{style="color:#bf9d6c;"} visit to top research environment. Excellent for motivation and new ideas.
+-   Scholarships and travel support. [URA-agreement](https://www.arbetsgivarverket.se/arbetsgivarguiden/personal-utomlands/utlandsstationering-med-ura/) is ideal, but costly.
+-   Easy and cheap guest housing on campus would do wonders.
 
 ## Learning together - journal clubs etc
 
+-   Learning together breaks (prestige) barriers and opens up for collaborations.\
+     
 -   Reading groups to discuss current or foundational articles:
     -   Small groups in research areas, perhaps online with other uni
     -   Larger group at dept level
     -   Read a book together, each person is responsible for a chapter.\
          
--   [Tech talks](Images/techtalks.png){preview-link="true"} at Statistics, SU:
-    -   Informal meeting every fourth week at 4-5 pm.
-    -   Short presentations (5-60 mins) from staff.
-    -   Master students also welcome.
-    -   Dinner afterwards. BYO, order in, or university restaurant.\
-         
--   Make junior researchers (involved) co-supervisors.<br>Small research groups.
+-   [**Micro-seminars**]{style="color:#bf9d6c;"}\
+     
+-   Small research groups with PhD students, post doc and senior researcher.
+-   Make junior researchers (involved) co-supervisors.
+
+## Tech talks at SU
+
+-   Informal meeting every fourth week at 4-5 pm.
+-   Short presentations (5-60 mins) from staff.
+-   Master's students also welcome.
+-   Dinner afterwards. BYO, order in, or university restaurant.\
+
+![](Images/techtalks.png){fig-align="center" width="30%"}
 
 ## Research-teaching synergies
 
 -   Education grounded in research benefits students and society, but also lecturers. Students also build research culture. Let them in.
--   Make basic courses [**research-inspiring**]{style="color:#bf9d6c;"}.<br>Make advanced courses [**research-preparing**]{style="color:#bf9d6c;"}.
--   Teaching teams led by professor at basic courses.\
-         
--   Research-inspiring education :arrow_right: [**research-oriented master theses**]{style="color:#bf9d6c;"}.
+-   Make basic courses [**research-inspiring**]{style="color:#bf9d6c;"}. Teams incl professor.
+-   Make advanced courses [**research-preparing**]{style="color:#bf9d6c;"}.
+-   :arrow_right: [**research-oriented master theses**]{style="color:#bf9d6c;"}.
 -   [**Master thesis supervision**]{style="color:#bf9d6c;"} activates a supervisor's research nerve.
 -   [**Research project course**]{style="color:#bf9d6c;"} with students partipating in focused research task at dept.
--   Use that second year of masters used to be first year of  PhD.
+-   Second year of master's used to be first year of PhD.
 -   Invite (master) students to research seminars.
 
 ## Publication outlets
@@ -216,27 +224,42 @@ format:
     -   share info about (rejection/revision) path to publication.
     -   celebrate a colleague's success. :partying_face:
 -   [Journal rankings](https://www.scimagojr.com/), but also experienced colleagues' rankings.
--   :warning: Obsessive ranking mentality can be crippling.
+-   Your colleague's success is good for dept and therefore also for you.
+-   :warning: Obsessive ranking mentality (Top 3) can be crippling.
+
+## Publication email
+
+<small>We recently got the paper 'Real-Time Robotic Search using Hierarchical Spatial Point Processes' accepted for publication in the machine learning conference 'Uncertainty in Artificial Intelligence' (UAI2019).
+
+The paper is joint work with my PhD students Olov Andersson (Robotics) and Per Sidén (Statistics), my previous post doc Johan Dahlin (Automatic Control) and Prof Patrick Doherty (Robotics). It is funded by Patrick's and my SSF project in Smart Systems.
+
+Abstract: Aerial robots hold great potential for aiding Search and Rescue (SAR) efforts over large areas. Traditional approaches typically searches an area exhaustively, thereby ignoring that the density of victims varies based on predictable factors, such as the terrain, population density and the type of disaster. We present a probabilistic model to automate SAR planning, with explicit minimization of the expected time to discovery. The proposed model is a hierarchical spatial point process with three interacting spatial fields for i) the point patterns of persons in the area, ii) the probability of detecting persons and iii) the probability of injury. This structure allows inclusion of informative priors from e.g. geographic or cell phone traffic data, while falling back to latent Gaussian processes when priors are missing or inaccurate. To solve this problem in real-time, we propose a combination of fast approximate inference using Integrated Nested Laplace Approximation (INLA), and a novel Monte Carlo tree search tailored to the problem. Experiments using data simulated from real world GIS maps show that the framework outperforms traditional search strategies, and finds up to ten times more injured in the crucial first hours.
+
+Computer Science has a completely different publication culture than Statistics, where the majority of publications are 6-10 pages papers in conference proceedings. The conferences are ranked and some of the conferences have higher status than the best journals. So, unlike Statistics, conference proceedings really matters. The top general conferences in machine learning are NeurIPS and ICML. Those conferences are ranked A+. UAI is ranked A, so it is a very good conference specialized in probabilistic modeling (mostly graphical models) for AI. The accept rate for UAI this year was 26% (compared to 20% for NeurIPS).
+
+It is common in Robotics to complement the experiments in the paper with a video. Here is our video for the paper: https://www.youtube.com/watch?v=wyD0O5hF5tE.</small>
 
 ## Making research and researchers visible
 
--   Clear web page with research profiles and groups..\
-         
--   [Department web page](https://www.su.se/english/profiles/villani-1.394193) for each researcher..\
-         
--   [Google Scholar](https://scholar.google.se/citations?user=lyW8fWYAAAAJ&hl=sv) profile page..\
-         
--   [Personal web page](https://mattiasvillani.com/) linked from department web..\
-         
--   Make [course material](https://statisticssu.github.io/SDA1/) public..\
-         
+-   Clear web page with research profiles and groups.\
+     
+-   [Department web page](https://www.su.se/english/profiles/villani-1.394193) for each researcher.\
+     
+-   [Google Scholar](https://scholar.google.se/citations?user=lyW8fWYAAAAJ&hl=sv) or similar profile page.\
+     
+-   [Personal web page](https://mattiasvillani.com/) linked from department web.\
+     
+-   Make [course material](https://statisticssu.github.io/SDA1/) public.\
+     
 -   Social media and blogs can be great for networks and feedback.
 
 ## Concluding remarks
 
--   Developing a research culture is hard, but doable.
--   Most of staff  
+-   Developing a research culture is doable if it is a [**collective effort**]{style="color:#bf9d6c;"}.
+-   Staff likely to support the idea (may disagree on method).
 -   Good research requires funding. Funding requires good research.
--   Support from management is crucial.
--   Communication is important. Tools matter. Internal and external web.
--   "Black box" money is really useful. A little money can go a long way. <br><br><br><br> I would love to hear [**your thoughts and ideas**]{style="color:#bf9d6c;"} now!
+-   It takes some effort to make the wheel spin in the right direction.
+-   [**Support and encouragement from management**]{style="color:#bf9d6c;"} is crucial.
+-   Important to [**value researchers' time**]{style="color:#bf9d6c;"}. Use meeting time wisely.
+-   [**Communication and information sharing**]{style="color:#bf9d6c;"} is important. Tools matter. Internal and external web.
+-   "Black box" money for grant writing, guests etc is really useful. <br><br><br>  Thanks for listening! <br>I would love to hear [**your thoughts and ideas**]{style="color:#bf9d6c;"} now!
