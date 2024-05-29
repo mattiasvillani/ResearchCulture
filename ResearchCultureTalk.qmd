@@ -39,22 +39,30 @@ format:
 ![](Images/riksbank.jpg){fig-align="center" width="61%"}     ![](Images/STIMA.png){fig-align="center" width="34%"}
 
 ## The premise  
+-   Many academic departments have [**heavy teaching**]{style="color:#bf9d6c;"}.\
+     
 
--   Many academic departments have [**heavy teaching**]{style="color:#bf9d6c;"}.
+-   [**Teaching is intense**]{style="color:#bf9d6c;"} and students depend on us.\
+     
 
--   [**Teaching is intense**]{style="color:#bf9d6c;"} and students depend on us.
-
--   Teaching have shorter time scales than research. [**Crowding out**]{style="color:#bf9d6c;"}.
+-   Teaching have shorter time scales than research. [**Crowding out**]{style="color:#bf9d6c;"}.\
+     
 
 -   Teaching culture can quickly become dominant.
 
--   How to develop a [**research culture**]{style="color:#bf9d6c;"} and maintain teaching efforts?
+## Research culture  
 
--   OED: *a way of life or social environment characterized by or associated with the specified quality or thing*.
+-   How to develop a [**research culture**]{style="color:#bf9d6c;"} and maintain teaching efforts?\
+     
 
--   [**Naturally occurring research** **discussions at the coffee machine**]{style="color:#bf9d6c;"}.
+-   OED: *a way of life or social environment characterized by or associated with the specified quality or thing*.\
+     
 
--   Synergistic relationship between teaching and research?
+-   [**Naturally occurring research** **discussions at the coffee machine**]{style="color:#bf9d6c;"}.\
+     
+
+-   Synergistic relationship between teaching and research?\
+     
 
 -   Is it possible to develop a culture, or must it happen organically?
 
@@ -166,13 +174,19 @@ format:
 
 ## Get people here, send people away
 
--   Mobility is undervalued (in Sweden).
--   Encourage [**teacher exchange programs**]{style="color:#bf9d6c;"}, particularly on advanced and PhD level courses. New environment, meet people, time to reflect.
--   Hard because we typically need our teachers. Long term planning.
--   Attract [**guest professors**]{style="color:#bf9d6c;"} to give a course, seminars and for discussing research. Sabbaticals. Funding.
--   Informal shorter (week-month) exchange of staff between universities.
--   Send PhD students abroad on a longer [**pre-doc**]{style="color:#bf9d6c;"} visit to top research environment. Excellent for motivation and new ideas.
--   Scholarships and travel support. [URA-agreement](https://www.arbetsgivarverket.se/arbetsgivarguiden/personal-utomlands/utlandsstationering-med-ura/) is ideal, but costly.
+-   Mobility is undervalued (in Sweden).\
+     
+<!-- -   Encourage [**teacher exchange programs**]{style="color:#bf9d6c;"}, particularly on advanced and PhD level courses. New environment, meet people, time to reflect. -->
+-   Hard because we typically need our teachers. Long term planning.\
+     
+-   Attract [**guest professors**]{style="color:#bf9d6c;"} to give a course, seminars and for discussing research. Sabbaticals. Funding.\
+     
+-   Informal shorter (day-week-month) exchange of staff between universities.\
+     
+-   Send PhD students abroad on a longer [**pre-doc**]{style="color:#bf9d6c;"} visit to top research environment. Excellent for motivation and new ideas.\
+     
+-   Scholarships and travel support.\
+      [URA-agreement](https://www.arbetsgivarverket.se/arbetsgivarguiden/personal-utomlands/utlandsstationering-med-ura/) is ideal, but costly.
 -   Easy and cheap guest housing on campus would do wonders.
 
 ## Learning together - journal clubs etc
