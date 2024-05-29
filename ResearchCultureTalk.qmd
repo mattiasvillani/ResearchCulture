@@ -1,5 +1,10 @@
 ---
 title: "Developing a research culture in teaching-dominated environments"
+title-slide-attributes:
+    data-background-image: "Images/corridor1.png"
+    data-background-size: 600px
+    data-background-opacity: "1"
+    data-background-position: 150px 15px
 author: "**Mattias Villani**"
 institute: Department of Statistics<br>Stockholm University
 format: 
@@ -50,21 +55,25 @@ format:
 
 -   Teaching culture can quickly become dominant.
 
+![](Images/lecturehallteachingstudents.png){fig-align="center" width="35%"}
+
 ## Research culture  
 
 -   How to develop a [**research culture**]{style="color:#bf9d6c;"} and maintain teaching efforts?\
      
 
--   OED: *a way of life or social environment characterized by or associated with the specified quality or thing*.\
+-   OED: *a way of life or social environment [...]*\
      
 
 -   [**Naturally occurring research** **discussions at the coffee machine**]{style="color:#bf9d6c;"}.\
      
 
--   Synergistic relationship between teaching and research?\
+-   Is it possible to develop a culture, or must it happen organically?\
      
 
--   Is it possible to develop a culture, or must it happen organically?
+-   Synergistic relationship between teaching and research?
+
+![](Images/coffeemachine.png){fig-align="center" width="35%"}
 
 ## The simple solution  
 
@@ -179,19 +188,19 @@ format:
 <!-- -   Encourage [**teacher exchange programs**]{style="color:#bf9d6c;"}, particularly on advanced and PhD level courses. New environment, meet people, time to reflect. -->
 -   Hard because we typically need our teachers. Long term planning.\
      
--   Attract [**guest professors**]{style="color:#bf9d6c;"} to give a course, seminars and for discussing research. Sabbaticals. Funding.\
+-   [**Guest professors**]{style="color:#bf9d6c;"}. Course and discussing research. Sabbaticals.\
      
--   Informal shorter (day-week-month) exchange of staff between universities.\
+-   Informal shorter exchange of staff between universities.\
      
--   Send PhD students abroad on a longer [**pre-doc**]{style="color:#bf9d6c;"} visit to top research environment. Excellent for motivation and new ideas.\
+-   PhD students on longer [**pre-doc**]{style="color:#bf9d6c;"} visit to top research environment.\
      
--   Scholarships and travel support.\
-      [URA-agreement](https://www.arbetsgivarverket.se/arbetsgivarguiden/personal-utomlands/utlandsstationering-med-ura/) is ideal, but costly.
+-   Scholarships and travel support. [URA-agreement](https://www.arbetsgivarverket.se/arbetsgivarguiden/personal-utomlands/utlandsstationering-med-ura/) is ideal, but costly.\
+     
 -   Easy and cheap guest housing on campus would do wonders.
 
 ## Learning together - journal clubs etc
 
--   Learning together breaks (prestige) barriers and opens up for collaborations.\
+-   Breaks (prestige) barriers and opens up for collaborations.\
      
 -   Reading groups to discuss current or foundational articles:
     -   Small groups in research areas, perhaps online with other uni
@@ -199,8 +208,9 @@ format:
     -   Read a book together, each person is responsible for a chapter.\
          
 -   [**Micro-seminars**]{style="color:#bf9d6c;"}\
-     
--   Small research groups with PhD students, post doc and senior researcher.
+         
+-   Small research groups with PhD students, post doc and senior(s).\
+         
 -   Make junior researchers (involved) co-supervisors.
 
 ## Tech talks at SU
@@ -210,16 +220,18 @@ format:
 -   Master's students also welcome.
 -   Dinner afterwards. BYO, order in, or university restaurant.\
 
-![](Images/techtalks.png){fig-align="center" width="30%"}
+![](Images/techtalks.png){fig-align="center" width="29%"}
 
 ## Research-teaching synergies
 
--   Education grounded in research benefits students and society, but also lecturers. Students also build research culture. Let them in.
+-   Education grounded in research benefits also lecturers. 
+-   Students also build research culture. Let them in.
 -   Make basic courses [**research-inspiring**]{style="color:#bf9d6c;"}. Teams incl professor.
 -   Make advanced courses [**research-preparing**]{style="color:#bf9d6c;"}.
 -   :arrow_right: [**research-oriented master theses**]{style="color:#bf9d6c;"}.
--   [**Master thesis supervision**]{style="color:#bf9d6c;"} activates a supervisor's research nerve.
--   [**Research project course**]{style="color:#bf9d6c;"} with students partipating in focused research task at dept.
+-   [**Master thesis supervision**]{style="color:#bf9d6c;"} activates a supervisor's research nerve.\
+         
+-   [**Research project course**]{style="color:#bf9d6c;"} with students partipating in research.
 -   Second year of master's used to be first year of PhD.
 -   Invite (master) students to research seminars.
 
@@ -273,4 +285,4 @@ It is common in Robotics to complement the experiments in the paper with a video
 -   [**Support and encouragement from management**]{style="color:#bf9d6c;"} is crucial.
 -   Important to [**value researchers' time**]{style="color:#bf9d6c;"}. Use meeting time wisely.
 -   [**Communication and information sharing**]{style="color:#bf9d6c;"} is important. Tools matter. Internal and external web.
--   "Black box" money for grant writing, guests etc is really useful. <br><br><br>  Thanks for listening! <br>I would love to hear [**your thoughts and ideas**]{style="color:#bf9d6c;"} now!
+-   "Black box" money for grant writing, guests etc is really useful. <br><br>  Thanks for listening! <br>I would love to hear [**your thoughts and ideas**]{style="color:#bf9d6c;"} now!
