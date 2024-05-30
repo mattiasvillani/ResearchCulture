@@ -44,6 +44,7 @@ format:
 ![](Images/riksbank.jpg){fig-align="center" width="61%"}     ![](Images/STIMA.png){fig-align="center" width="34%"}
 
 ## The premise  
+
 -   Many academic departments have [**heavy teaching**]{style="color:#bf9d6c;"}.\
      
 
@@ -62,7 +63,7 @@ format:
 -   How to develop a [**research culture**]{style="color:#bf9d6c;"} and maintain teaching efforts?\
      
 
--   OED: *a way of life or social environment [...]*\
+-   OED: *a way of life or social environment \[...\]*\
      
 
 -   [**Naturally occurring research** **discussions at the coffee machine**]{style="color:#bf9d6c;"}.\
@@ -160,7 +161,7 @@ format:
 
     -   Also with PhD students and less research active staff.
 
-## Research seminars - make them important 
+## Research seminars - make them important
 
 ```         
      
@@ -180,12 +181,10 @@ format:
 
 -   [**Distribute the invitation and hosting**]{style="color:#bf9d6c;"} across all researchers. <br>Make it the **department's** seminar series.\
 
-
 ## Get people here, send people away
 
 -   Mobility is undervalued (in Sweden).\
-     
-<!-- -   Encourage [**teacher exchange programs**]{style="color:#bf9d6c;"}, particularly on advanced and PhD level courses. New environment, meet people, time to reflect. -->
+      <!-- -   Encourage [**teacher exchange programs**]{style="color:#bf9d6c;"}, particularly on advanced and PhD level courses. New environment, meet people, time to reflect. -->
 -   Hard because we typically need our teachers. Long term planning.\
      
 -   [**Guest professors**]{style="color:#bf9d6c;"}. Course and discussing research. Sabbaticals.\
@@ -208,9 +207,9 @@ format:
     -   Read a book together, each person is responsible for a chapter.\
          
 -   [**Micro-seminars**]{style="color:#bf9d6c;"}\
-         
+     
 -   Small research groups with PhD students, post doc and senior(s).\
-         
+     
 -   Make junior researchers (involved) co-supervisors.
 
 ## Tech talks at SU
@@ -224,13 +223,13 @@ format:
 
 ## Research-teaching synergies
 
--   Education grounded in research benefits also lecturers. 
+-   Education grounded in research benefits also lecturers.
 -   Students also build research culture. Let them in.
 -   Make basic courses [**research-inspiring**]{style="color:#bf9d6c;"}. Teams incl professor.
 -   Make advanced courses [**research-preparing**]{style="color:#bf9d6c;"}.
 -   :arrow_right: [**research-oriented master theses**]{style="color:#bf9d6c;"}.
 -   [**Master thesis supervision**]{style="color:#bf9d6c;"} activates a supervisor's research nerve.\
-         
+     
 -   [**Research project course**]{style="color:#bf9d6c;"} with students partipating in research.
 -   Second year of master's used to be first year of PhD.
 -   Invite (master) students to research seminars.
@@ -285,4 +284,4 @@ It is common in Robotics to complement the experiments in the paper with a video
 -   [**Support and encouragement from management**]{style="color:#bf9d6c;"} is crucial.
 -   Important to [**value researchers' time**]{style="color:#bf9d6c;"}. Use meeting time wisely.
 -   [**Communication and information sharing**]{style="color:#bf9d6c;"} is important. Tools matter. Internal and external web.
--   "Black box" money for grant writing, guests etc is really useful. <br><br>  Thanks for listening! <br>I would love to hear [**your thoughts and ideas**]{style="color:#bf9d6c;"} now!
+-   "Black box" money for grant writing, guests etc is really useful. <br><br> Thanks for listening! <br>I would love to hear [**your thoughts and ideas**]{style="color:#bf9d6c;"} now!
