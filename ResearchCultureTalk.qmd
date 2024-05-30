@@ -2,7 +2,7 @@
 title: "Developing a research culture in teaching-dominated environments"
 title-slide-attributes:
     data-background-image: "Images/corridor1.png"
-    data-background-size: 60%
+    data-background-size: 50%
     data-background-opacity: "1"
     data-background-position: 50% 5%
 author: "**Mattias Villani**"
